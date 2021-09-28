@@ -4,3 +4,5 @@ The data is obtained from Kaggle website.
 The data includes all the regions in Ontario, and I have used a defined reduce the size of the dataset.
 
 Please note the map data is a cpu intensive command.
+
+Please don't forget to credit me if you use my work
